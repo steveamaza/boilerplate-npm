@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Stephen Amaza",
+	"keywords": [ "descriptive", "related", "words" ],
 	"description": "A sample project on freeCodeCamp to relearn node",
 	"dependencies": {
 		"express": "^4.14.0"
