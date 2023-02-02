@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Stephen Amaza",
 	"keywords": [ "freecodecamp", "learning", "basics" ],
+	"version": "1.2.0",
 	"description": "A sample project on freeCodeCamp to relearn node",
 	"license": "MIT",
 	"dependencies": {
