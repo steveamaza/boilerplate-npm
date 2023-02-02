@@ -6,7 +6,8 @@
 	"description": "A sample project on freeCodeCamp to relearn node",
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"package-name": "version",
 	},
 	"main": "server.js",
 	"scripts": {
